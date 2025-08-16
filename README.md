@@ -1,12 +1,6 @@
 <h2 align="left">Hi 👋! My name is Shahidy and I'm a Mechanical Engineer.</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=commits" height="150" alt="stats graph"  />
-</div>
-
-###
 
 <table align="center">
 <tr>
@@ -93,6 +87,14 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=commits" height="150" alt="stats graph"  />
+</div>
+
+###
 
 ###
 
