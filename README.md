@@ -1,12 +1,6 @@
 <h2 align="left">Hi 👋! My name is Shahidy and I'm a Mechanical Engineer.</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=commits" height="150" alt="stats graph"  />
-</div>
-
-###
 
 <table align="center">
 <tr>
@@ -96,10 +90,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github.com/shahidy/shahidy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=commits" height="150" alt="stats graph"  />
 </div>
 
 ###
