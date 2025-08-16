@@ -96,6 +96,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/shahidy/shahidy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 
 
