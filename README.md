@@ -1,16 +1,22 @@
 <h2 align="left">Hi 👋! My name is Shahidy and I'm a Mechanical Engineer.</h2>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=commits" height="150" alt="stats graph"  />
+</div>
+
+###
 
 <table align="center">
 <tr>
 <td width="50%" align="center">
 
 ### 🔧 Most used Software
-![ANSYS]([https://img.shields.io/badge/ANSYS-35%25-bd93f9?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K](https://images.seeklogo.com/logo-png/50/1/ansys-logo-png_seeklogo-508830.png))
-![COMSOL](https://img.shields.io/badge/COMSOL-30%25-8be9fd?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-20%25-ffb86c?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
-![Deform 3D](https://img.shields.io/badge/Deform_3D-15%25-50fa7b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
+![ANSYS](https://img.shields.io/badge/ANSYS-35%25-bd93f9?style=flat-square&logoColor=white)
+![COMSOL](https://img.shields.io/badge/COMSOL-30%25-8be9fd?style=flat-square&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-20%25-ffb86c?style=flat-square&logoColor=white)
+![Deform 3D](https://img.shields.io/badge/Deform_3D-15%25-50fa7b?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" align="center">
@@ -43,13 +49,13 @@
 
 <div align="left">
   <h3>🔧 Engineering Software</h3>
-  <img src="https://logos-world.net/wp-content/uploads/2022/02/ANSYS-Logo.png" height="30" alt="ansys logo"  />
+  <img src="https://img.shields.io/badge/ANSYS-FF6B35?style=for-the-badge&logoColor=white" height="30" alt="ANSYS" />
   <img width="12" />
-  <img src="https://www.comsol.com/shared/img/header/comsol-logo.svg" height="30" alt="comsol logo"  />
+  <img src="https://img.shields.io/badge/COMSOL-0066CC?style=for-the-badge&logoColor=white" height="30" alt="COMSOL" />
   <img width="12" />
-  <img src="https://logoeps.com/wp-content/uploads/2013/03/solidworks-vector-logo.png" height="30" alt="solidworks logo"  />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logoColor=white" height="30" alt="SolidWorks" />
   <img width="12" />
-  <img src="https://deform.com/wp-content/uploads/2020/01/DEFORM-logo.png" height="30" alt="deform3d logo"  />
+  <img src="https://img.shields.io/badge/Deform_3D-28A745?style=for-the-badge&logoColor=white" height="30" alt="Deform 3D" />
 </div>
 
 ###
@@ -90,8 +96,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=commits" height="150" alt="stats graph"  />
+  <img src="https://github.com/shahidy/shahidy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###
