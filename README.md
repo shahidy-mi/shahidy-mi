@@ -61,7 +61,7 @@
   <p>🔹 3D CAD Design & Modeling</p>
   <p>🔹 Multiphysics Simulation</p>
   <p>🔹 Embedded Systems Programming</p>
-  <p>🔹 Thermal & Structural Analysis</p>
+  <p>🔹 Thermal Analysis</p>
 </div>
 
 ###
