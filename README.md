@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shahidy and I'm a Mechanical Engineer.</h2>
+<h2 align="left">Hi 👋! My name is Shahid and I'm a Mechanical Engineer.</h2>
 
 
 
